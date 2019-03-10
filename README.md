@@ -4,4 +4,4 @@ npm install
 
 npm run
 
-:D
+Created by ViorelMD
